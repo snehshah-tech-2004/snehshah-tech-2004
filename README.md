@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0ea5e9,100:6366f1&text=Sneh%20Shah&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Embedded%20%C2%B7%20Industrial%20IoT%20%C2%B7%205G%20%26%20DPU%20Networking&descAlignY=60&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?<img src="assets/header.svg" width="100%" alt="Sneh Shah header"/>
 
 <a href="https://github.com/snehshah-tech-2004">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=ECE+grad+%E2%86%92+MS+Computer+Engineering+%40+UC+Riverside;I+build+industrial+data+loggers+end+to+end;ESP32+%C2%B7+Raspberry+Pi+%C2%B7+PyQt5+%C2%B7+Modbus+RS-485;QUIC+filtering+on+BlueField-2+DPUs+with+DOCA+Flow;4+IEEE+papers+%C2%B7+1+Best+Paper+Award" alt="typing intro"/>
